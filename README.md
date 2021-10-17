@@ -46,6 +46,41 @@ Escribimos el código en la parte de Enter Code en GitHub y continuara el proces
 
 ![image](https://user-images.githubusercontent.com/54609399/137610963-10393bb1-b049-4df4-8314-1445081e4700.png)
 
+11 - Seleccionamos cualquiera de las siguientes preferencias, pueden ser una o varias.
+
+![image](https://user-images.githubusercontent.com/54609399/137610999-b34673e8-4672-43de-a3ed-92d5a7ab747a.png)
+
+12 - Seleccionamos la cuenta Free. ¬¬ que por cierto aparecerá casi oculta...
+
+![image](https://user-images.githubusercontent.com/54609399/137611021-08531716-d835-431f-8b63-fd7aea587f60.png)
+
+Aparecerá una animación extraña para llevarnos el perfil de GitHub.
+
+![image](https://user-images.githubusercontent.com/54609399/137611052-ebf4c3f3-a597-4cb9-8cbb-b85d2f0d01f7.png)
+
+13 - Ahora si quedamos en nuestro perfil de GitHub.
+
+![image](https://user-images.githubusercontent.com/54609399/137611062-1d04b5d2-85da-4c0a-8db9-25504859984c.png)
+
+**** CREAR UN REPOSITORIO ****
+
+1 - Damos click al icono del + en la parte superior derecha y seleccionamos New Repository.
+
+![image](https://user-images.githubusercontent.com/54609399/137611118-d3a1b8a8-7a2a-462c-9e35-b99acc4c76a3.png)
+
+![image](https://user-images.githubusercontent.com/54609399/137611123-fbd9b8ea-263e-4ec1-9e94-21dfac7a90d8.png)
+
+2 - Escribimos el nombre del repositorio, también podemos poner el repositorio público o privado, podemos crear un archivo README el cual tendrá información importante del proyecto.
+
+![image](https://user-images.githubusercontent.com/54609399/137611163-34069334-29f0-4e6f-a8d7-cd680891b051.png)
+
+3 - Cuando presionamos el botón Create repository nos lleva a la interfaz de nuestro repositorio.
+
+![image](https://user-images.githubusercontent.com/54609399/137611224-f41ec3bc-f0af-4b54-85db-3eb3782d4b01.png)
+
+
+
+
 
 
 
